@@ -1,0 +1,14 @@
+{
+  "name": "quiz-application",
+  "version": "1.0.0",
+  "description": "This is simple Quiz application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pradyumna-Hegde",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
